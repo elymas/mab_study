@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# mab_study
-=======
 # Multi-Armed Bandit Algorithm Implementation
 
 ## 개요
@@ -83,4 +80,3 @@ graph TD
 - A Contextual Bandit Bake-off: https://arxiv.org/abs/1802.04064
 - A Contextual-Bandit Approach to Personalized News Article Recommendation: https://arxiv.org/abs/1003.0146
 - A Tutorial on Thompson Sampling: https://arxiv.org/abs/1707.02038
->>>>>>> cf4c782 (Add README and MAB implementation)
